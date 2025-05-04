@@ -1,0 +1,10 @@
+//
+// Created by User on 04/05/2025.
+//
+
+#ifndef CLEETCODEPROBLEMS_COUNTBITS_H
+#define CLEETCODEPROBLEMS_COUNTBITS_H
+
+int countBits(int num);
+
+#endif //CLEETCODEPROBLEMS_COUNTBITS_H
